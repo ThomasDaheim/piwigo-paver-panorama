@@ -10,7 +10,7 @@ They both a) seem not to be maintained anymore and b) only support "full" 180/36
 
 So this is an attempt to create a new plugin based on the Paver js library (https://github.com/terrymun/paver). As a basis the PhotoSphere plugin will be used since I like the idea of storing in the database whether a picture should be shown as panorama. That allows to make the choice based on various aspects and not only the exif metadata that indicates a google panorama. E.g. my definition of a panorma is everthing with a width/height ratio larger than 3.5.
 
-##Roadmap
+## Roadmap
 
 - Initial creation of working plugin using manual selection of pictures
 - Add (optionally) algorithms to determine panoramas - e.g. google exif metadata, width/height ratio, ??? Could be used during picture upload to fill the flag initially
