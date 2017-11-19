@@ -1,5 +1,5 @@
 # piwigo-paver-panorama
-Piwigo plugin to show panoramas based on paver js library
+Piwigo plugin to show panoramas based on the paver js library.
 
 There are two plugins available for Piwigo that show full 360-180 panoramas:
 
